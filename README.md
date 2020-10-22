@@ -85,6 +85,11 @@ Sometimes, you need enter the captcha to continue the download.
 - Install with [DMG file](https://github.com/leovan/SciHubEVA/releases).
 - Install from brew cask.  
   `brew cask install scihubeva`
+  
+  Sci-Hub网址查询
+国内使用网址为http://tool.yovisun.com/scihub/
+国外使用网址为https://sci-hub.now.sh/
+备用网址为https://lovescihub.wordpress.com/
 
 ### Windows
 
